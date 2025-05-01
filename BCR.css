@@ -1,0 +1,22 @@
+.CN {
+    width: 20px;
+}
+
+.BCN {
+    width: 20px;
+    background-color: black;
+}
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCqD0D6HDidBZQjetMsKZ1g2EYDPjCEVzJHQ&s);
+    background-size: cover;
+    background-position: center;
+}
+header{
+    text-align: center;
+    background-color: green;
+}
+*{
+    font-style: italic;
+    font-weight: 800;
+}
