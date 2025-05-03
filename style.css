@@ -1,0 +1,61 @@
+ *{
+    margin: 0%;
+    padding: 0%;
+    
+ }
+ h1{
+    background-color: #e2e3e4;
+    margin: 20px 0px;
+    text-align: center;
+ }
+ .a
+ {
+    background-color:#2982c5;
+ }
+ .b{
+    background-color:#2b91cf;
+ }
+ .c{
+    background-color: #1f9ed6;
+ }
+ .d{
+    background-color: #31a6de;
+ }
+ .e{
+    background-color: #58b6e7;
+ }
+ .f{
+    background-color:#77c1eb ;
+ }
+ .g{
+    background-color: #93cbee;}
+    
+    .h{
+        background-color:#1db582 ;
+    }
+
+.i {
+    background-color:#f4b2ce ;
+}
+.j{
+    background-color:#f29ec2;
+}
+.k{background-color:#f38bb3 ;
+}
+    
+
+.l{
+    background-color: #f27aa6;
+}
+.m{
+    background-color:#f16695 ;
+}
+.n{
+    background-color:#ef588a ;
+}
+.o{
+    background-color: #ed3381;
+}
+.color{
+    margin-left: 10px;
+}
